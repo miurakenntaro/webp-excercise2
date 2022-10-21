@@ -1,0 +1,31 @@
+html{
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    color :#0000EE;
+}
+
+h2{
+    font-size: 25;
+}
+dl,dt{
+    font-size: 15;
+}
+p{
+    font-size: 20;
+    text-align: right;
+}
+
+html{
+    background-color: white; 
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #A4C6FF;
+    padding: 0 30px 30px 30px;
+}
